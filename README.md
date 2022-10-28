@@ -1,1 +1,1 @@
-Marketplace system in django
+Marketplace
